@@ -1,9 +1,7 @@
-# SecurityTest
-
-A demo to test authentication
+# SecurityTest - A demo to test authentication
 
 To test the standard Guardian authentication just go to localhost:4000/users/new
-note that authorization levels were not implemented in this demo
+*note that authorization levels were not implemented in this demo
 
 
 The API authentication can be accessed with the following commands
